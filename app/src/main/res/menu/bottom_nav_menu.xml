@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favouritesnbtn"
+        android:title="Favourites"
+        android:icon="@drawable/baseline_star_border_24"/>
+
+    <item
+        android:id="@+id/thingsnbtn"
+        android:title="Things"
+        android:icon="@drawable/ic_bc_things" />
+    <item
+        android:id="@+id/routinesnbtn"
+        android:title="Routines"
+        android:icon="@drawable/ic_restore_routines" />
+    <item
+        android:id="@+id/ideasnbtn"
+        android:title="Ideas"
+        android:icon="@drawable/ic_idea" />
+    <item
+        android:id="@+id/settingsnbtn"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>
